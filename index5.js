@@ -8,4 +8,4 @@ const bicycle={
 };
 
 bicycle.setGear(3);
-console.log(bicycle.gear);
+console.log(bicycle.gear)
